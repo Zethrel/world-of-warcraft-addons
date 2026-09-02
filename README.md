@@ -5,7 +5,7 @@ this is just the front door.
 
 | AddOn | What it does | Client | Licence | Repository |
 | --- | --- | --- | --- | --- |
-| **Eloquence** | Linguistic chat filters and racial dialects for roleplay | 12.1 | MIT | [Zethrel/Eloquence](https://github.com/Zethrel/Eloquence) |
+| **Eloquence** | Linguistic chat filters and racial dialects for roleplay | 12.1 | All rights reserved | [Zethrel/Eloquence](https://github.com/Zethrel/Eloquence) |
 | **Enemy RP** | Carries roleplay profiles and chat across the faction divide | 12.0.7 | GPL-3.0 | [Zethrel/Enemy-RP](https://github.com/Zethrel/Enemy-RP) |
 | **Exposition** | Writes long roleplay posts and sends them to chat without breaking words | 12.1 | All rights reserved | [Zethrel/exposition](https://github.com/Zethrel/exposition) |
 | **KillThemAll** | Randomly plays Old Gods whispers, like the sha-touched weapons of MoP | 12.0.7 · Classic | MIT | [Zethrel/kill-them-all-addon](https://github.com/Zethrel/kill-them-all-addon) |
@@ -26,7 +26,9 @@ linguistic filters over the chat you read — correcting spelling, expanding
 acronyms, censoring profanity, and dragging modern turns of phrase into
 something that sounds like it belongs in Azeroth.
 
-Written from scratch. MIT licensed.
+Written from scratch — the original's source has not been obtainable for years,
+so this is a reimplementation from its published feature list, not a port. All
+rights reserved.
 
 → [Repository](https://github.com/Zethrel/Eloquence) ·
 [Releases](https://github.com/Zethrel/Eloquence/releases) ·
