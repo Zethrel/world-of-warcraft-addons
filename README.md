@@ -9,7 +9,7 @@ this is just the front door.
 | **Enemy RP** | Carries roleplay profiles and chat across the faction divide | 12.0.7 | GPL-3.0 | [Zethrel/Enemy-RP](https://github.com/Zethrel/Enemy-RP) |
 | **Exposition** | Writes long roleplay posts and sends them to chat without breaking words | 12.1 | All rights reserved | [Zethrel/exposition](https://github.com/Zethrel/exposition) |
 | **KillThemAll** | Randomly plays Old Gods whispers, like the sha-touched weapons of MoP | 12.0.7 · Classic | MIT | [Zethrel/kill-them-all-addon](https://github.com/Zethrel/kill-them-all-addon) |
-| **Roleplay Event Helper** | Announces your event's house rules and adjudicates `/roll` results | 12.1 | MIT | [Zethrel/Roleplay-event-helper](https://github.com/Zethrel/Roleplay-event-helper) |
+| **Roleplay Event Helper** | Announces your event's house rules and adjudicates `/roll` results | 12.1 | All rights reserved | [Zethrel/Roleplay-event-helper](https://github.com/Zethrel/Roleplay-event-helper) |
 | **SayWhat** | Tracks who talks in /say range and mirrors them into a Nearby window | 12.1 | All rights reserved | [Zethrel/say-what](https://github.com/Zethrel/say-what) |
 
 Five of the six are roleplay addons, which is not an accident — that is what I
@@ -131,16 +131,6 @@ correctly.
 
 Restart the client afterwards rather than using `/reload`; newly added addons
 are only picked up when the game launches.
-
-## Also here, but not addons
-
-Two neighbouring repositories that are about WoW without being addons
-themselves:
-
-| Project | What it is | Repository |
-| --- | --- | --- |
-| **wowcraft** | Crafting margin scanner — finds crafts whose reagents cost less than the finished item sells for, off Blizzard's Game Data API. Python, no dependencies, outputs a self-contained dashboard. Ships a small companion addon, **WowCraft Export**, that exports the open profession's recipes and your bags to SavedVariables. | [Zethrel/wow-craft-margins](https://github.com/Zethrel/wow-craft-margins) |
-| **Quartermaster** | Discord bot for a raiding guild — sets up ranks and channels, takes raid signups by role, and turns a roster into a priced shopping list of flasks, food and potions. | [Zethrel/Herald](https://github.com/Zethrel/Herald) |
 
 ## Coming up
 
